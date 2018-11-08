@@ -10,10 +10,10 @@ namespace CustomList2
     {
         public T[] items;
         public T[] tempArray;
+
         int count;
         int cap;
         public int Count {get { return count; } }
-
         public MyList()
         {
             cap = 4;
@@ -21,15 +21,12 @@ namespace CustomList2
             items = new T[cap];
 
         }
-
-
         public void Add(T item)
         {
             CheckIfCapped();
             items[count] = item;
             count++;
         }
-
         public void CheckIfCapped()
         {
             if (count == cap - 1)
@@ -60,7 +57,6 @@ namespace CustomList2
         {
             items = new T[cap];
         }
-
         public void Remove(int index)
         {
             while (count - 1 > index)
@@ -68,10 +64,8 @@ namespace CustomList2
                 items[index] = items[index + 1];
                 index++;
             }
-                count--;
-            
+                count--;   
         }
-
         public T this[int index]
         {
             get
@@ -82,6 +76,19 @@ namespace CustomList2
             {
                 items[index] = value;
             }
+        }
+        public static MyList<T> operator+ (MyList<T> list1, MyList<T> list2)
+        {
+            MyList<T> list = new MyList<T>();
+            for (int i = 0; i < list1.count; i++)
+            {
+                list.Add(list1[i]);
+            }
+            for (int j = 0; j < list2.count; j++)
+            {
+                list.Add(list2[j]);
+            }
+            return list;
         }
     }
 }
