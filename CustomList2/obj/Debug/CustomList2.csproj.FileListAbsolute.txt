@@ -1,0 +1,7 @@
+D:\devCodeCamp\MyOwnList\CustomList2\CustomList2\bin\Debug\CustomList2.exe.config
+D:\devCodeCamp\MyOwnList\CustomList2\CustomList2\bin\Debug\CustomList2.exe
+D:\devCodeCamp\MyOwnList\CustomList2\CustomList2\bin\Debug\CustomList2.pdb
+D:\devCodeCamp\MyOwnList\CustomList2\CustomList2\obj\Debug\CustomList2.csprojAssemblyReference.cache
+D:\devCodeCamp\MyOwnList\CustomList2\CustomList2\obj\Debug\CustomList2.csproj.CoreCompileInputs.cache
+D:\devCodeCamp\MyOwnList\CustomList2\CustomList2\obj\Debug\CustomList2.exe
+D:\devCodeCamp\MyOwnList\CustomList2\CustomList2\obj\Debug\CustomList2.pdb

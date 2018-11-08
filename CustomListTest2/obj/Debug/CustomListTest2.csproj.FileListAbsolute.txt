@@ -1,0 +1,17 @@
+D:\devCodeCamp\MyOwnList\CustomList2\CustomListTest2\obj\Debug\CustomListTest2.csprojAssemblyReference.cache
+D:\devCodeCamp\MyOwnList\CustomList2\CustomListTest2\obj\Debug\CustomListTest2.csproj.CoreCompileInputs.cache
+D:\devCodeCamp\MyOwnList\CustomList2\CustomListTest2\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\devCodeCamp\MyOwnList\CustomList2\CustomListTest2\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\devCodeCamp\MyOwnList\CustomList2\CustomListTest2\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\devCodeCamp\MyOwnList\CustomList2\CustomListTest2\bin\Debug\CustomListTest2.dll
+D:\devCodeCamp\MyOwnList\CustomList2\CustomListTest2\bin\Debug\CustomListTest2.pdb
+D:\devCodeCamp\MyOwnList\CustomList2\CustomListTest2\bin\Debug\CustomList2.exe
+D:\devCodeCamp\MyOwnList\CustomList2\CustomListTest2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\devCodeCamp\MyOwnList\CustomList2\CustomListTest2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\devCodeCamp\MyOwnList\CustomList2\CustomListTest2\bin\Debug\CustomList2.pdb
+D:\devCodeCamp\MyOwnList\CustomList2\CustomListTest2\bin\Debug\CustomList2.exe.config
+D:\devCodeCamp\MyOwnList\CustomList2\CustomListTest2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\devCodeCamp\MyOwnList\CustomList2\CustomListTest2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\devCodeCamp\MyOwnList\CustomList2\CustomListTest2\obj\Debug\CustomListTest2.csproj.CopyComplete
+D:\devCodeCamp\MyOwnList\CustomList2\CustomListTest2\obj\Debug\CustomListTest2.dll
+D:\devCodeCamp\MyOwnList\CustomList2\CustomListTest2\obj\Debug\CustomListTest2.pdb
