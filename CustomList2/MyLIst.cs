@@ -90,5 +90,29 @@ namespace CustomList2
             }
             return list;
         }
+        public static MyList<T> operator- (MyList<T> list1, MyList<T> list2)
+        {
+            for (int i = 0; i < list1.count; i++)
+            {
+                for (int j = 0; j < list2.count; j++)
+                {
+                    if (list1[i].Equals(list2[j]))
+                    {
+                        list1.Remove(i);
+                    }
+                }
+            }
+            return list1;
+        }
+        public override string ToString()
+        {
+            string NewString = "";
+            for (int i = 0; i < count; i++)
+            {
+                items[i].ToString();
+                NewString += items[i];
+            }
+            return NewString;
+        }
     }
 }
